@@ -1,0 +1,27 @@
+body,html{height:100%;padding:0px;margin:0px;background-image:url("../img/fondo.jpg");background-size:cover;}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+.d{background-image:url("../img/luna.png");background-size:cover;height:12%;width:100%;position:fixed;bottom:0px;}
+.e{height:10%;width:100%;position:fixed;top:0px;}
+h1,h3 {font-family: Bungee Inline, cursive, Verdana;line-height: 0.5;text-align: center;
+        color:yellow;text-shadow: 6px 6px 4px #aaa;}
+#nave{text-align:center;position:absolute;top:10%;width:100%;height:20%}
+#nave img{height:50%;}
+footer {height:6%;position: fixed;bottom:0px;margin-left: 0px;}
+#hidem,#showm{display:none}
+#cpanel, #cpanle ul {box-shadow:2px 2px 8px #000000;font-family: Verdana;background-color: green;
+            width: 180px;height: 60px;;border-radius: 12px;text-align: left;
+            margin-top:20%; margin-left: 5%}
+#replay {font-family: Verdana; border-radius:6px; width: 100px; text-align: center;
+         box-shadow:2px 2px 8px #000000;}
+#pause {font-family: Verdana; border-radius:6px; width: 100px; text-align: center;
+         box-shadow:2px 2px 8px #000000;}
+#play {font-family: Verdana; border-radius:6px; width: 100px; text-align: center;
+         box-shadow:2px 2px 8px #000000;}
+#nav {border:3px solid #3e4547;box-shadow:2px 2px 8px #000000; border-radius:10px;}
+#nav, #nav ul {font-family: Verdana; list-style:none; padding:0; width:140px;
+               position:relative; background-color:#d4d5d8; float:right;height:135px;
+               text-align: center; margin-right: 12px; margin-top: 20%;}
+
+#nav li a { color:#000;display:block;font-size:12px;font-weight:bold;line-height:28px;
+		outline:0;text-decoration:none;}
+ul{list-style:none;}

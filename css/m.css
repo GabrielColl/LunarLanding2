@@ -1,0 +1,27 @@
+body,html{height:100%;padding:0px;margin:0px;background-image:url("../img/fondo2.jpg");background-size:cover;}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+.d{background-image:url("../img/luna.png");background-size:cover;height:14%;width:100%;position:fixed;bottom:0px;}
+.e{height:10%;width:100%;position:fixed;top:0px;}
+#nave{text-align:center;position:fixed;top:10%;width:100%;height:20%}
+#nave img{height:40%;}
+h1,h3 {font-family: Bungee Inline, cursive, Verdana;line-height: 0.5;text-align: center;
+        color:yellow;text-shadow: 6px 6px 4px #aaa;font-size: 18px;}
+#hidem,#showm{display:none}
+#cpanel, #cpanle ul {box-shadow:2px 2px 8px #000000;font-family: Verdana;background-color: green;
+            width: 120px;height:50px;;border-radius: 12px;text-align: left;
+            margin-top:30%; margin-left: 5%;font-size: 12px;list-style:none;}
+#replay {font-family: Verdana; border-radius:6px; width: 50px; text-align: center;
+         box-shadow:2px 2px 8px #000000;font-size: 10px;}
+#pause {font-family: Verdana; border-radius:6px; width: 50px; text-align: center;
+         box-shadow:2px 2px 8px #000000;font-size: 10px;}
+#play {font-family: Verdana; border-radius:6px; width: 50px; text-align: center;
+         box-shadow:2px 2px 8px #000000;font-size: 10px;}
+#nav {border:3px solid #3e4547;box-shadow:2px 2px 8px #000000; border-radius:10px;}
+#nav, #nav ul {font-family: Verdana; list-style:none; pading:0 ; width:90px;
+               position:relative; background-color:#d4d5d8; float:right;height:130px;
+               text-align:left; margin-right: 5%; margin-top: 20%;}
+
+#nav li a { color:#000;display:block;font-weight:bold;line-height:28px;
+		outline:0;text-decoration:none;font-size: 10px;list-style:none;}
+
+footer {height:6%;position: fixed;bottom:0px;margin-left: 0px;}
