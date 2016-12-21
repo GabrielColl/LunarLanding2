@@ -54,7 +54,7 @@ function reset(){
 	} 
 }
 function replay(){
-	window.location.reload();
+	reset();
 	} 
 function moverNave(){
 	v +=a*dt;
