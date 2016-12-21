@@ -1,5 +1,5 @@
 # LunarLanding2
-Primerament he modificat el _HTML_ que ens has facilitat amb l'informació del que vaig fer per la pràctica anterior. Jo utilitzava <Div> per el panell de control però ho tingut que modificar i fer una simple llista ja que em donava problemes amb el _js_.
+Primerament he modificat el _HTML_ que ens has facilitat amb l'informació del que vaig fer per la pràctica anterior. Jo utilitzava >Div< per el panell de control però ho tingut que modificar i fer una simple llista ja que em donava problemes amb el _js_.
 Amb els _CSS_ he fet el mateix. Modificar el que ens has aportat i afegir el meu disseny.
 
 Amb el _JavaScript_ he tingut molts de problemes. Les funcions bàsiques em quedaven bastant clares però no sabia implementar-les.
