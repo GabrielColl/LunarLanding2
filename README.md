@@ -17,3 +17,4 @@ El darrer pas a seguir ha estat el de canviar la imatge del coet quan es prem qu
 
 Volia crear un avís per començar fent que botàs aquest al estar la nau a dalt, però em botava cada cos per tres quan passava de la altura per el qual ho vaig borrar. També vaig provar de associar la funció de Play per començar per primera vegada però no em funcionava.¿Com es pot fer? 
 A part d'això he tingut problemes amb les imatges _.png_ degut a que en teoria tenien la mateixa escala (el coets son iguals en teoria) però al joc surten de diferents mides.
+Per darrer he modificat el _HTML_ d'instrucions i he adjuntat aquest juntament amb el _HTML_ de "sobre el Joc" i el _CSS_.
